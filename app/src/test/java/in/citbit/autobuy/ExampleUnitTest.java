@@ -1,4 +1,4 @@
-package in.citbit.autobuy2;
+package in.citbit.autobuy3;
 
 import org.junit.Test;
 

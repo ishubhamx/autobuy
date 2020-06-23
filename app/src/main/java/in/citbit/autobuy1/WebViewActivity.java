@@ -1,4 +1,4 @@
-package in.citbit.autobuy2;
+package in.citbit.autobuy3;
 
 import android.os.Build.VERSION;
 import android.os.Bundle;
@@ -15,7 +15,7 @@ import androidx.appcompat.widget.Toolbar;
 
 import com.google.android.material.snackbar.Snackbar;
 
-import in.citbit.autobuy2.R;
+import in.citbit.autobuy3.R;
 
 public class WebViewActivity extends AppCompatActivity {
     WebView n;

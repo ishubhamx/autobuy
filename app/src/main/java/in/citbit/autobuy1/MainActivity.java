@@ -1,4 +1,4 @@
-package in.citbit.autobuy2;
+package in.citbit.autobuy3;
 
 import android.content.Intent;
 import android.os.Bundle;
