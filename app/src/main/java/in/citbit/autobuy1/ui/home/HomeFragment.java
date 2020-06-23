@@ -1,4 +1,4 @@
-package in.citbit.autobuy1.ui.home;
+package in.citbit.autobuy2.ui.home;
 
 import android.os.Build;
 import android.os.Bundle;
@@ -16,7 +16,7 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProviders;
 
-import in.citbit.autobuy1.R;
+import in.citbit.autobuy2.R;
 
 public class HomeFragment extends Fragment {
 

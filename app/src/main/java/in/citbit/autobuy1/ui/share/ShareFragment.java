@@ -1,4 +1,4 @@
-package in.citbit.autobuy1.ui.share;
+package in.citbit.autobuy2.ui.share;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -10,7 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProviders;
-import in.citbit.autobuy1.R;
+import in.citbit.autobuy2.R;
 
 public class ShareFragment extends Fragment {
 

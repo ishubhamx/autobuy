@@ -1,4 +1,4 @@
-package in.citbit.autobuy1.ui.slideshow;
+package in.citbit.autobuy2.ui.slideshow;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

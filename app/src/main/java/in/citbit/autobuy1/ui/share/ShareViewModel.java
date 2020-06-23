@@ -1,4 +1,4 @@
-package in.citbit.autobuy1.ui.share;
+package in.citbit.autobuy2.ui.share;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

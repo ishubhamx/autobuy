@@ -1,4 +1,4 @@
-package in.citbit.autobuy1.ui.gallery;
+package in.citbit.autobuy2.ui.gallery;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
