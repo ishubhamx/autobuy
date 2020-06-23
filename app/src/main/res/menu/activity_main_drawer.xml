@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/menu_9_pro_max"
+            android:title="@string/menu_9_pro_max" />
+        <item
+            android:id="@+id/menu_redmi_8A"
+            android:title="redmi_8A" />
+        <item
+            android:id="@+id/nav_menu_note_9_pro"
+            android:title="@string/menu_note_9_pro" />
+        <item
+            android:id="@+id/vivo_u10"
+            android:title="vivo u10" />
+        <item
+            android:id="@+id/vivou20"
+            android:title="vivo u 20" />
+        <item
+            android:id="@+id/vivoy91i"
+            android:title="vivoy91i" />
+        <item
+            android:id="@+id/y1"
+            android:title="redmi y1" />
+        <item
+            android:id="@+id/y2"
+            android:title="redmi y2" />
+    </group>
+
+
+</menu>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Auto Script</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_note_9_pro">Note 9 Pro</string>
+    <string name="menu_9_pro_max">note 9 Pro Max</string>
+    <string name="menu_redmi_8A">Redmi 8A</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="sigin">Sign in</string>
+    <string name="redirect">redirect</string>
+    <string name="trying">Trying</string>
+    <string name="please_signin">Please signin</string>
+    <string name="site_name">site_name</string>
+    <string name="variant_link">variant_link</string>
+    <string name="flipkart">flipkart</string>
+    <string name="amazon">amazon</string>
+</resources>
