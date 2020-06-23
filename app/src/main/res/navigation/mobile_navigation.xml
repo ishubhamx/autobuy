@@ -7,31 +7,31 @@
 
     <fragment
         android:id="@+id/nav_home"
-        android:name="in.citbit.autobuy2.ui.home.HomeFragment"
+        android:name="in.citbit.autobuy3.ui.home.HomeFragment"
         android:label="@string/menu_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/nav_gallery"
-        android:name="in.citbit.autobuy2.ui.gallery.GalleryFragment"
+        android:name="in.citbit.autobuy3.ui.gallery.GalleryFragment"
         android:label="@string/menu_gallery"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
         android:id="@+id/nav_slideshow"
-        android:name="in.citbit.autobuy2.ui.slideshow.SlideshowFragment"
+        android:name="in.citbit.autobuy3.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_9_pro_max"
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
         android:id="@+id/nav_tools"
-        android:name="in.citbit.autobuy2.ui.tools.ToolsFragment"
+        android:name="in.citbit.autobuy3.ui.tools.ToolsFragment"
         android:label="@string/menu_note_9_pro"
         tools:layout="@layout/fragment_tools" />
 
     <fragment
         android:id="@+id/nav_share"
-        android:name="in.citbit.autobuy2.ui.share.ShareFragment"
+        android:name="in.citbit.autobuy3.ui.share.ShareFragment"
         android:label="@string/menu_redmi_8A"
         tools:layout="@layout/fragment_share" />
 

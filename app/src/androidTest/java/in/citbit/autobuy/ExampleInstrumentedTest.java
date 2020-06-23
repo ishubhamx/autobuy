@@ -1,4 +1,4 @@
-package in.citbit.autobuy2;
+package in.citbit.autobuy3;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("in.citbit.autobuy2", appContext.getPackageName());
+        assertEquals("in.citbit.autobuy3", appContext.getPackageName());
     }
 }
